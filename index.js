@@ -5,7 +5,7 @@ const { plugin: collectBlockPlugin } = require('mineflayer-collectblock');
 
 // ---------- CONFIG (hardcoded — no .env needed) ----------
 const CONFIG = {
-  host: 'pvpbd.aternos.me',
+  host: 'boxpvpbd.aternos.me',
   port: 57489,
   username: 'shuvo_kanokar',
   version: false, // false = auto-detect
